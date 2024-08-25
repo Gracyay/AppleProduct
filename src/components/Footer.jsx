@@ -24,7 +24,7 @@ const footer = () => {
              <div className="flex md:flex-row flex-col 
              md:items-center justify-between">
                 <p className="font-semibold text-gray text-xs">
-                    Built by Gracy Singh
+                    Built by Gracy Singh 
                 </p>
                 <div className="flex">
                     {footerLinks.map((link, i) => (
